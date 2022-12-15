@@ -1,10 +1,10 @@
 # SQL-LESSON 1
 
-![screenshot](lesson1.png)
+![screenshot](./lesson1.png)
 
 # SQL-LESSON 2
 
-![screenshot](lesson2.png)
+![screenshot](./lesson2.png)
 
 # SQL-LESSON 3
 
@@ -24,27 +24,27 @@
 
 # SQL-LESSON 13
 
-![screenshot](lesson13.png)
+![screenshot](./lesson13.png)
 
 # SQL-LESSON 14
 
-![screenshot](lesson14.png)
+![screenshot](./lesson14.png)
 
 # SQL-LESSON 15
 
-![screenshot](lesson15.png)
+![screenshot](./lesson15.png)
 
 # SQL-LESSON 16
 
-![screenshot](lesson16.png)
+![screenshot](./lesson16.png)
 
 # SQL-LESSON 17
 
-![screenshot](lesson17.png)
+![screenshot](./lesson17.png)
 
 # SQL-LESSON 18
 
-![screenshot](lesson18.png)
+![screenshot](./lesson18.png)
 
 ## Summary of Exercise
 
