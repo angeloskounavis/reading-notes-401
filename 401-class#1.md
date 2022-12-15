@@ -8,19 +8,19 @@
 
 # SQL-LESSON 3
 
-![screenshot](lesson3.png)
+![screenshot](./lesson3.png)
 
 # SQL-LESSON 4
 
-![screenshot](lesson4.png)
+![screenshot](./lesson4.png)
 
 # SQL-LESSON 5
 
-![screenshot](lesson5.png)
+![screenshot](./lesson5.png)
 
 # SQL-LESSON 6
 
-![screenshot](lesson6.png)
+![screenshot](./lesson6.png)
 
 # SQL-LESSON 13
 
